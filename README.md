@@ -1,0 +1,1 @@
+This repo contains a program that accepts one parameter in the command line that should be a file. The program reads the file, and outputs details about each line in the input file.
